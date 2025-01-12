@@ -22,4 +22,4 @@ To get started with the project, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/student-crud-app.git
+git clone https://github.com/SivaSabariGanesan/React-firebase-crud-app.git
