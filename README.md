@@ -1,8 +1,25 @@
-# React + Vite
+# Student CRUD App (React, Firebase & Tailwind CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and professional CRUD application built with React, Firebase, and Tailwind CSS. This app allows users to perform basic Create, Read, Update, and Delete operations on student data, such as name and age. It integrates with Firebase for real-time data storage and management, with a responsive and modern design powered by Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Create**: Add new students with name and age.
+- **Read**: Display the list of students.
+- **Update**: Edit student information.
+- **Delete**: Remove a student from the list.
+
+## Technologies Used
+
+- **React**: Frontend library for building the user interface.
+- **Firebase**: Backend service for real-time database, authentication, and storage.
+- **Tailwind CSS**: Utility-first CSS framework for designing responsive and modern interfaces.
+
+## Installation
+
+To get started with the project, follow these steps:
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/student-crud-app.git
